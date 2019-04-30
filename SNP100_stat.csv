@@ -1,0 +1,99 @@
+Symbol;Security;SEC filings;GICS Sector;GICS Sub Industry;Headquarter City;Headquarters State;Latitude;Longitude
+ABMD;ABIOMED Inc;reports;Health Care;Health Care Equipment;Danvers; Massachusetts;42.35866;-71.05675
+ACN;Accenture plc;reports;Information Technology;IT Consulting & Other Services;Dublin; Ireland;53.34807;-6.24827
+ATVI;Activision Blizzard;reports;Communication Services;Interactive Home Entertainment;Santa Monica; California;38.57944;-121.49085
+ADBE;Adobe Systems Inc;reports;Information Technology;Application Software;San Jose; California;38.57944;-121.49085
+AMD;Advanced Micro Devices Inc;reports;Information Technology;Semiconductors;Sunnyvale; California;38.57944;-121.49085
+AAP;Advance Auto Parts;reports;Consumer Discretionary;Automotive Retail;Roanoke; Virginia;37.5407;-77.43365
+AES;AES Corp;reports;Utilities;Independent Power Producers & Energy Traders;Arlington; Virginia;37.5407;-77.43365
+AMG;Affiliated Managers Group Inc;reports;Financials;Asset Management & Custody Banks;Beverly; Massachusetts;42.35866;-71.05675
+AFL;AFLAC Inc;reports;Financials;Life & Health Insurance;Columbus; Georgia;41.70907;44.79611
+A;Agilent Technologies Inc;reports;Health Care;Health Care Equipment;Santa Clara; California;38.57944;-121.49085
+APD;Air Products & Chemicals Inc;reports;Materials;Industrial Gases;Allentown; Pennsylvania;40.25987;-76.88223
+AKAM;Akamai Technologies Inc;reports;Information Technology;Internet Services & Infrastructure;Cambridge; Massachusetts;42.35866;-71.05675
+ALK;Alaska Air Group Inc;reports;Industrials;Airlines;Seattle; Washington;38.89037;-77.03196
+ALB;Albemarle Corp;reports;Materials;Specialty Chemicals;Baton Rouge; Louisiana;30.44335;-91.18664
+ARE;Alexandria Real Estate Equities;reports;Real Estate;Office REITs;Pasadena; California;38.57944;-121.49085
+ALXN;Alexion Pharmaceuticals;reports;Health Care;Biotechnology;Cheshire; Connecticut;41.76376;-72.67394
+ALGN;Align Technology;reports;Health Care;Health Care Supplies;San Jose; California;38.57944;-121.49085
+ALLE;Allegion;reports;Industrials;Building Products;Dublin; Ireland;53.34807;-6.24827
+AGN;Allergan, Plc;reports;Health Care;Pharmaceuticals;Dublin; Ireland;53.34807;-6.24827
+ADS;Alliance Data Systems;reports;Information Technology;Data Processing & Outsourced Services;Plano; Texas;30.26759;-97.74299
+LNT;Alliant Energy Corp;reports;Utilities;Electric Utilities;Madison; Wisconsin;43.07313;-89.38644
+ALL;Allstate Corp;reports;Financials;Property & Casualty Insurance;Northfield Township; Illinois;39.8013;-89.6436
+GOOGL;Alphabet Inc Class A;reports;Communication Services;Interactive Media & Services;Mountain View; California;38.57944;-121.49085
+MO;Altria Group Inc;reports;Consumer Staples;Tobacco;Richmond; Virginia;37.5407;-77.43365
+AMZN;Amazon.com Inc.;reports;Consumer Discretionary;Internet & Direct Marketing Retail;Seattle; Washington;38.89037;-77.03196
+AEE;Ameren Corp;reports;Utilities;Multi-Utilities;St. Louis; Missouri;38.57751;-92.17784
+AAL;American Airlines Group;reports;Industrials;Airlines;Fort Worth; Texas;30.26759;-97.74299
+AEP;American Electric Power;reports;Utilities;Electric Utilities;Columbus; Ohio;39.96199;-83.00276
+AXP;American Express Co;reports;Financials;Consumer Finance;New York; New York;40.71455;-74.00714
+AIG;American International Group;reports;Financials;Property & Casualty Insurance;New York; New York;40.71455;-74.00714
+AMT;American Tower Corp.;reports;Real Estate;Specialized REITs;Boston; Massachusetts;42.35866;-71.05675
+AWK;American Water Works Company Inc;reports;Utilities;Water Utilities;Voorhees; New Jersey;40.21788;-74.7594
+AMP;Ameriprise Financial;reports;Financials;Asset Management & Custody Banks;Minneapolis; Minnesota;44.94339;-93.09648
+ABC;AmerisourceBergen Corp;reports;Health Care;Health Care Distributors;Chesterbrook; Pennsylvania;40.25987;-76.88223
+AME;AMETEK Inc.;reports;Industrials;Electrical Components & Equipment;Berwyn; Pennsylvania;40.25987;-76.88223
+AMGN;Amgen Inc.;reports;Health Care;Biotechnology;Thousand Oaks; California;38.57944;-121.49085
+APH;Amphenol Corp;reports;Information Technology;Electronic Components;Wallingford; Connecticut;41.76376;-72.67394
+APC;Anadarko Petroleum Corp;reports;Energy;Oil & Gas Exploration & Production;The Woodlands; Texas;30.26759;-97.74299
+ADI;Analog Devices, Inc.;reports;Information Technology;Semiconductors;Norwood; Massachusetts;42.35866;-71.05675
+ANSS;ANSYS;reports;Information Technology;Application Software;Canonsburg; Pennsylvania;40.25987;-76.88223
+ANTM;Anthem Inc.;reports;Health Care;Managed Health Care;Indianapolis; Indiana;39.76691;-86.14996
+AON;Aon plc;reports;Financials;Insurance Brokers;London; United Kingdom;51.50643;-0.12721
+AOS;A.O. Smith Corp;reports;Industrials;Building Products;Milwaukee; Wisconsin;43.07313;-89.38644
+APA;Apache Corporation;reports;Energy;Oil & Gas Exploration & Production;Houston; Texas;30.26759;-97.74299
+AIV;Apartment Investment & Management;reports;Real Estate;Residential REITs;Denver; Colorado;39.74001;-104.99202
+AAPL;Apple Inc.;reports;Information Technology;Technology Hardware, Storage & Peripherals;Cupertino; California;38.57944;-121.49085
+AMAT;Applied Materials Inc.;reports;Information Technology;Semiconductor Equipment;Santa Clara; California;38.57944;-121.49085
+APTV;Aptiv Plc;reports;Consumer Discretionary;Auto Parts & Equipment;Gillingham; Kent;38.19507;-84.87869
+ADM;Archer-Daniels-Midland Co;reports;Consumer Staples;Agricultural Products;Decatur; Illinois;39.8013;-89.6436
+ARNC;Arconic Inc.;reports;Industrials;Aerospace & Defense;New York; New York;40.71455;-74.00714
+ANET;Arista Networks;reports;Information Technology;Communications Equipment;Santa Clara; California;38.57944;-121.49085
+AJG;Arthur J. Gallagher & Co.;reports;Financials;Insurance Brokers;Itasca; Illinois;39.8013;-89.6436
+AIZ;Assurant;reports;Financials;Multi-line Insurance;New York; New York;40.71455;-74.00714
+ATO;Atmos Energy Corp;reports;Utilities;Gas Utilities;Dallas; Texas;30.26759;-97.74299
+T;AT&T Inc.;reports;Communication Services;Integrated Telecommunication Services;Dallas; Texas;30.26759;-97.74299
+ADSK;Autodesk Inc.;reports;Information Technology;Application Software;San Rafael; California;38.57944;-121.49085
+ADP;Automatic Data Processing;reports;Information Technology;Internet Services & Infrastructure;Roseland; New Jersey;40.21788;-74.7594
+AZO;AutoZone Inc;reports;Consumer Discretionary;Specialty Stores;Memphis; Tennessee;36.16785;-86.77816
+AVB;AvalonBay Communities, Inc.;reports;Real Estate;Residential REITs;Arlington; Virginia[3];42.24131;-83.0133
+AVY;Avery Dennison Corp;reports;Materials;Paper Packaging;Glendale; California;38.57944;-121.49085
+BHGE;Baker Hughes, a GE Company;reports;Energy;Oil & Gas Equipment & Services;Houston; Texas;30.26759;-97.74299
+BLL;Ball Corp;reports;Materials;Metal & Glass Containers;Broomfield; Colorado;39.74001;-104.99202
+BAC;Bank of America Corp;reports;Financials;Diversified Banks;Charlotte; North Carolina;35.78551;-78.64267
+BK;The Bank of New York Mellon Corp.;reports;Financials;Asset Management & Custody Banks;New York; New York;40.71455;-74.00714
+BAX;Baxter International Inc.;reports;Health Care;Health Care Equipment;Deerfield; Illinois;39.8013;-89.6436
+BBT;BB&T Corporation;reports;Financials;Regional Banks;Winston-Salem; North Carolina;35.78551;-78.64267
+BDX;Becton Dickinson;reports;Health Care;Health Care Equipment;Franklin Lakes; New Jersey;40.21788;-74.7594
+BRK.B;Berkshire Hathaway;reports;Financials;Multi-Sector Holdings;Omaha; Nebraska;40.81362;-96.7073
+BBY;Best Buy Co. Inc.;reports;Consumer Discretionary;Computer & Electronics Retail;Richfield; Minnesota;44.94339;-93.09648
+BIIB;Biogen Inc.;reports;Health Care;Biotechnology;Weston; Massachusetts;42.35866;-71.05675
+BLK;BlackRock;reports;Financials;Asset Management & Custody Banks;New York; New York;40.71455;-74.00714
+HRB;Block H&R;reports;Consumer Discretionary;Specialized Consumer Services;Kansas City; Missouri;38.57751;-92.17784
+BA;Boeing Company;reports;Industrials;Aerospace & Defense;Chicago; Illinois;39.8013;-89.6436
+BKNG;Booking Holdings Inc;reports;Consumer Discretionary;Internet & Direct Marketing Retail;Norwalk; Connecticut;41.76376;-72.67394
+BWA;BorgWarner;reports;Consumer Discretionary;Auto Parts & Equipment;Auburn Hills; Michigan;42.73194;-84.55225
+BXP;Boston Properties;reports;Real Estate;Office REITs;Boston; Massachusetts;42.35866;-71.05675
+BSX;Boston Scientific;reports;Health Care;Health Care Equipment;Marlborough; Massachusetts[4];43.84842;-81.34286
+BMY;Bristol-Myers Squibb;reports;Health Care;Health Care Distributors;New York; New York;40.71455;-74.00714
+AVGO;Broadcom;reports;Information Technology;Semiconductors;San Jose; California;38.57944;-121.49085
+BR;Broadridge Financial Solutions;reports;Information Technology;Data Processing & Outsourced Services;Lake Success; New York;40.71455;-74.00714
+BF.B;Brown-Forman Corp.;reports;Consumer Staples;Distillers & Vintners;Louisville; Kentucky;38.19507;-84.87869
+CHRW;C. H. Robinson Worldwide;reports;Industrials;Air Freight & Logistics;Eden Prairie; Minnesota;44.94339;-93.09648
+COG;Cabot Oil & Gas;reports;Energy;Oil & Gas Exploration & Production;Houston; Texas;30.26759;-97.74299
+CDNS;Cadence Design Systems;reports;Information Technology;Application Software;San Jose; California;38.57944;-121.49085
+CPB;Campbell Soup;reports;Consumer Staples;Packaged Foods & Meats;Camden; New Jersey;40.21788;-74.7594
+COF;Capital One Financial;reports;Financials;Consumer Finance;Tysons Corner; Virginia;37.5407;-77.43365
+CPRI;Capri Holdings;reports;Consumer Discretionary;Apparel, Accessories & Luxury Goods;New York; New York;40.71455;-74.00714
+CAH;Cardinal Health Inc.;reports;Health Care;Health Care Distributors;Dublin; Ohio;39.96199;-83.00276
+KMX;Carmax Inc;reports;Consumer Discretionary;Specialty Stores;Richmond; Virginia;37.5407;-77.43365
+CCL;Carnival Corp.;reports;Consumer Discretionary;Hotels, Resorts & Cruise Lines;Miami; Florida;30.43977;-84.28065
+CAT;Caterpillar Inc.;reports;Industrials;Construction Machinery & Heavy Trucks;Peoria; Illinois;39.8013;-89.6436
+CBOE;Cboe Global Markets;reports;Financials;Financial Exchanges & Data;Chicago; Illinois;39.8013;-89.6436
+CBRE;CBRE Group;reports;Real Estate;Real Estate Services;Los Angeles; California;38.57944;-121.49085
+CBS;CBS Corp.;reports;Communication Services;Broadcasting;New York; New York;40.71455;-74.00714
+CE;Celanese Corp.;reports;Materials;Specialty Chemicals;Irving; Texas;30.26759;-97.74299
+CELG;Celgene Corp.;reports;Health Care;Biotechnology;Summit; New Jersey;40.21788;-74.7594
+CNC;Centene Corporation;reports;Health Care;Managed Health Care;St Louis; Missouri;38.57751;-92.17784
+CNP;CenterPoint Energy;reports;Utilities;Multi-Utilities;Houston; Texas;30.26759;-97.74299
